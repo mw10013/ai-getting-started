@@ -1,3 +1,10 @@
+## Notes
+
+- pnpm env use --global lts
+- sudo apt-get update -qq
+- sudo apt-get install -y python-is-python3 pkg-config build-essential
+- pnpm install -g node-gyp
+
 # AI Getting Started
 
 [Live Demo (deployed on fly.io)](https://ai-getting-started.com/)
