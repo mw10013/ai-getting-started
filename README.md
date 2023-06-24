@@ -5,6 +5,10 @@
 - sudo apt-get install -y python-is-python3 pkg-config build-essential
 - pnpm install -g node-gyp
 
+## Supabase
+
+- studio: http://localhost:54323
+
 # AI Getting Started
 
 [Live Demo (deployed on fly.io)](https://ai-getting-started.com/)
